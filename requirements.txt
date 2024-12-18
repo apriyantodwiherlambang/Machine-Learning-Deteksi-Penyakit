@@ -1,4 +1,3 @@
-pandas
-scikit-learn
-pycaret
-pickle-mixin
+pycaret==2.3.4
+scikit-learn==0.24.2
+pandas==1.3.3
